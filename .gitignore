@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/WeightedLotteryDraft/bin/Debug/netcoreapp3.1
+/WeightedLotteryDraft/obj
